@@ -1,6 +1,10 @@
 # React Project: Grocery List
 
-## Use locally
+## Local use
+
+- Clone this project to your local repo
+- CD into the project
+- Open a terminal window and run 'npm install && npm start' to install the packages and run this project in a local server.
 
 ## About
 
