@@ -1,5 +1,9 @@
 # React Project: Grocery List
 
+## See it in action
+
+This project is hosted on Netlify at [https://devincloudkelly-react-grocerylist.netlify.app/](https://devincloudkelly-react-grocerylist.netlify.app/)
+
 ## Local use
 
 - Clone this project to your local repo
